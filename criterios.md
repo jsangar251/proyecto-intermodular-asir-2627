@@ -24,9 +24,9 @@ Se tendrán en cuenta los siguientes aspectos:
     8. Breve tutorial de uso de la aplicación con capturas de pantalla y/o material multimedia.
     9. URL donde se encuentre desplegada la aplicación.
     10. Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
-    11. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una     frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
+    11. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
 
-### **Módulos**
+### **Módulos** (Por determinar)
 ### Primero
 
 | Módulo | Criterios |
@@ -147,17 +147,18 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
     - Explicación de cómo habéis abordado y cumplido cada uno de los criterios establecidos en los diferentes módulos.
 
 9. Metodología
+    - Metodología de desarrollo que se ha llevado a cabo.
     - Cómo os habéis a organizado.
     - Qué herramientas habéis usado para repartir el trabajo y revisar que todo funcione.
 
-10. Listado de requisitos
+11. Listado de requisitos
     - Requisitos funcionales.
     - Requisitos no funcionales.
 
-11. Planificación
+12. Planificación
     - Cronograma o fases del trabajo.
 
-12. Producto final
+13. Producto final
     - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
     - Organización del código fuente (por ejemplo, MVC o Arquitectura Limpia) para separar la lógica, los datos y la interfaz.
     - Árbol de carpetas del repositorio que muestra dónde se guarda cada componente del sistema.
@@ -165,12 +166,12 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
     - Proceso automatizado para subir, probar y actualizar el código en el servidor sin interrumpir el servicio (CI/CD).
     - Principales problemas encontrados durante el desarrollo y cómo se han resuelto.
 
-13. Conclusiones 
+14. Conclusiones 
 
-14. Bibliografía
+15. Bibliografía
     - Fuentes de información que se han consultado durante el desarrollo.
 
-15. Manual de usuario
+16. Manual de usuario
     - Guía práctica que explica paso a paso cómo utilizar el producto creado.
 
 ### Exposición
