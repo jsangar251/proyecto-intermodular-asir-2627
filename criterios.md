@@ -35,6 +35,7 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Fundamentos de hardware** | - Configura equipos microinformáticos, componentes y periféricos, analizando sus características y relación con el conjunto.<br>- Instala software de propósito general evaluando sus características y entornos de aplicación. |
 | **Gestión de bases de datos** | - Realizar diagrama E/R o modelo relacional.<br>- Almacenamiento de datos en una base de datos, con al menos:<br> • Tres colecciones o tablas.<br> • Una relación de uno a muchos.<br> • Una relación de muchos a muchos. |
 | **Implantación de sistemas operativos** | Instala sistemas operativos, analizando sus características e interpretando la documentación técnica. |
+| **Itinerario personal para la empleabilidad I** | Prevención de Riesgos Laborales (PRL) y Salud Laboral. Tomando como base la infraestructura y las tecnologías que has diseñado e implementado en el proyecto realizar la identificación de riesgos asociados al puesto de administrador de sistemas:<br/>- Diseño ergonómico del puesto: Evaluación y adaptación del entorno de trabajo (pantallas, sillas, iluminación) para evitar la fatiga visual y trastornos musculoesqueléticos durante el desarrollo del proyecto.<br/>- Gestión de riesgos psicosociales: Identificación y prevención del estrés laboral (burnout) mediante la planificación racional de las entregas. |
 | **Lenguajes de marcas y sistemas de gestión de información** | Diseñar aplicaciones web del lado cliente con HTML, CSS y JavaScript. |
 | **Planificación y administración de redes** | Conecta redes privadas a redes públicas identificando y aplicando diferentes tecnologías. |
 | **Sostenibilidad aplicada al sistema productivo** | Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios. |
@@ -46,9 +47,10 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Administración de sistemas gestores de bases de datos** | - Creación de usuarios con distintos privilegios (administrador, aplicación, lectura, etc.).<br>- Crear y utilizar como mínimo un *Trigger*.<br>- Conexión a base de datos.<br>- Automatización de copias de seguridad de la base de datos de manera periódica. |
 | **Administración de sistemas operativos** | Utiliza lenguajes de guiones (*shell script*) en sistemas operativos. |
 | **Implantación de aplicaciones web** | Diseñar aplicaciones web del lado servidor que conectan a bases de datos. |
+| **Itinerario personal para la empleabilidad II** | Tomando como base la infraestructura y las tecnologías que has diseñado e implementado en el proyecto realizar la elaboración de tu dossier de candidatura e inserción profesional ASIR:<br/>- Mapeo del mercado laboral: identifica tres empresas (locales, nacionales o multinacionales) que demanden las tecnologías que has usado en tu proyecto. Justifica porque tu perfil técnico encaja en ellas. Y explica qué problema real del mercado resuelve tu infraestructura identificando una propuesta de valor clara: (¿Por qué una empresa pagaría por implantar tu sistema en lugar de usar otra alternativa? ¿Qué elementos innovadores o de digitalización aporta?).<br/>- Redacta una carta autocandidatura dirigida a esas empresas, utilizando el éxito del despliegue de tu proyecto como principal argumento de tu contratación. |
+| **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
 | **Seguridad y alta disponibilidad** | - Adopta pautas y prácticas de tratamiento seguro de la información, reconociendo las vulnerabilidades de un sistema informático y la necesidad de asegurarlo.<br>- Implanta técnicas seguras de acceso remoto a un sistema informático, interpretando y aplicando el plan de seguridad. |
 | **Servicios de red e internet** | Desplegar servicios en contenedores Docker con Kubernetes o virtualizar máquinas con Proxmox. |
-| **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
 
 
 ## Anteproyecto
