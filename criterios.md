@@ -50,7 +50,7 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Inglés profesional** | Incluir en la memoria un abstract de entre 100 y 500 palabras con hasta 5 palabras clave (keywords) y un glosario técnico de unas 15-20 palabras. |
 | **Itinerario personal para la empleabilidad II** | Tomando como base la infraestructura y las tecnologías que has diseñado e implementado en el proyecto realizar la elaboración de tu dossier de candidatura e inserción profesional ASIR:<br/>- Mapeo del mercado laboral: identifica tres empresas (locales, nacionales o multinacionales) que demanden las tecnologías que has usado en tu proyecto. Justifica porque tu perfil técnico encaja en ellas. Y explica qué problema real del mercado resuelve tu infraestructura identificando una propuesta de valor clara: (¿Por qué una empresa pagaría por implantar tu sistema en lugar de usar otra alternativa? ¿Qué elementos innovadores o de digitalización aporta?).<br/>- Redacta una carta autocandidatura dirigida a esas empresas, utilizando el éxito del despliegue de tu proyecto como principal argumento de tu contratación. |
 | **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
-| **Seguridad y alta disponibilidad** | - Adopción de pautas y prácticas de tratamiento seguro de la información:<br> • Criptografía<br> • Políticas de almacenamiento y contraseñas<br> • ACLs - Implantación de mecanismos de seguridad activa:<br> • Uso de herramientas preventivas y paliativas <br>  • Seguridad en red corporativa: DMZ, cortafuegos<br>  • Implanta técnicas de acceso remoto: redes protegidas perimetralmente y VPN<br> - Implanta soluciones de alta disponibilidad:<br> • Sistemas redundantes<br> • Virtualización|
+| **Seguridad y alta disponibilidad** | - Adopción de pautas y prácticas de tratamiento seguro de la información:<br> • Criptografía<br> • Políticas de almacenamiento y contraseñas<br> • ACLs <br> - Implantación de mecanismos de seguridad activa:<br> • Uso de herramientas preventivas y paliativas<br> • Seguridad en red corporativa: DMZ, cortafuegos<br> • Implanta técnicas de acceso remoto: redes protegidas perimetralmente y VPN<br> - Implanta soluciones de alta disponibilidad:<br> • Sistemas redundantes<br> • Virtualización |
 | **Servicios de red e internet** | Desplegar servicios en contenedores Docker con Kubernetes o virtualizar máquinas con Proxmox. |
 
 
@@ -97,7 +97,7 @@ Cada grupo tendrá que presentar obligatoriamente
 11. Bibliografía / referencias iniciales
     - Fuentes de información que servirán de base para el desarrollo.
 
-El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales,
+El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente.
 
 Se debe añadir un enlace público al anteproyecto en el README.MD del repositorio de GitHub.
 
