@@ -26,7 +26,7 @@ Se tendrán en cuenta los siguientes aspectos:
     10. Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
     11. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
 
-### **Módulos** (Por determinar)
+### **Módulos**
 ### Primero
 
 | Módulo | Criterios |
